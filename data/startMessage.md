@@ -1,7 +1,4 @@
-Bot Created Via [NFD](https://github.com/LloydAsp/nfd)
-
-使用方法：
-
-- 当其他用户给bot发消息，会被转发到bot创建者
-- 用户回复普通文字给转发的消息时，会回复到原消息发送者
-- 用户回复 `/block` ,  `/unblock` ,  `/checkblock` 等命令会执行相关指令， **不会** 回复到原消息发送者
+你好，老板需要什么数据？
+主营：🍎实时融担，高炮，借条，租机下机   申请   混料   技术直出，反馈良好，欢迎咨询
+唯一客服号：@gpzuji
+频道：https://t.me/zuji188

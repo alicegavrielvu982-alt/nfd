@@ -1,4 +1,5 @@
 你好，老板需要什么数据？
 主营：🍎实时融担，高炮，借条，租机下机   申请   混料   技术直出，反馈良好，欢迎咨询
-唯一客服号：@gpzuji
+唯一客服号：https://t.me/gpzuji
 频道：https://t.me/zuji188
+双向联系：https://t.me/gpzhuji_bot
